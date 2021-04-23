@@ -10,6 +10,6 @@ Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vTNH
 
 ## Acerca sobre mi
 
-- Me gusta navegar e investigar cosas relacionados con la tecnologia y la ciencia
+- Me gusta navegar e investigar cosas relacionados con la tecnologia y las ciencias
 - Me gusta andar y bicicleta
 - Me gustaria en un futuro tener una empresa de programación relacionado a la educación en los colegios.
